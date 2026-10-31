@@ -6,7 +6,7 @@ Main Dashboard
 FishGuard AI is an academic project that explores the use of Artificial Intelligence and Deep Learning for fish species identification and freshness classification through image analysis.
 
 ###  Project Overview
-![FishGuard AI Freshness](image.png)
+![FishGuard AI Freshness](image1.png)
 The project uses computer vision techniques to analyse fish images and provide predictions about fish species and freshness.
 
 ###  Key Features
