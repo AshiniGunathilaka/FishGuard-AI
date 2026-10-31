@@ -33,12 +33,12 @@ The project uses computer vision techniques to analyse fish images and provide p
 
 FishGuard AI uses two separate deep learning models to perform image-based classification.
 
-### 🐟 1. Fish Species Classification
+###  1. Fish Species Classification
 - Accepts an uploaded fish image.
 - Processes the image using a MobileNetV2-based model.
 - Predicts the fish species.
 
-### 🔍 2. Fish Freshness Classification
+###  2. Fish Freshness Classification
 - Accepts a fish image.
 - Analyses the image using a separate trained model.
 - Predicts the freshness category.
